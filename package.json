@@ -1,0 +1,25 @@
+{
+  "name": "book-store",
+  "version": "1.0.0",
+  "description": "Book Store in MERN",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohamedadelsaleh/Book-Store.git"
+  },
+  "author": "Mohamed Adel Saleh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohamedadelsaleh/Book-Store/issues"
+  },
+  "homepage": "https://github.com/Mohamedadelsaleh/Book-Store#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.2",
+    "nodemon": "^2.0.16"
+  }
+}
